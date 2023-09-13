@@ -2,6 +2,7 @@
 **I am a Telecom System Analyst**
 
 🔭 I’m currently working on my AA in Information Technology
+
 🌱 I’m currently learning ...  
     * Python
     * Java
