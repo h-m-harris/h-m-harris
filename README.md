@@ -9,4 +9,4 @@
 * C++
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itinstructor&layout=compact&hide=Batchfile&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-m-harris&layout=compact&hide=Batchfile&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
